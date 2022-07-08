@@ -21,7 +21,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC This is the initial commit to the repository, or Version 1. If helpful, you can imagine this text as code. 
+# MAGIC This is NOT the original/initial version. This version makes changes to this script. 
 
 # COMMAND ----------
 
