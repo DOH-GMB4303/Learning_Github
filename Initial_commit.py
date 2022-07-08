@@ -21,7 +21,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC This is the initial commit to the repository, or Version 1. If helpful, you can imagine this text as code. 
+# MAGIC Test-Version 3
 
 # COMMAND ----------
 
