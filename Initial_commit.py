@@ -21,7 +21,9 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC This is NOT the original/initial version. This version makes changes to this script. 
+
+# MAGIC Test-Version 3
+
 
 # COMMAND ----------
 
